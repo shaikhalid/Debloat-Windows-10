@@ -1,7 +1,8 @@
 # Personal Tweaks 
 **revise how updates are optimised(add delay to feature updates)**,
-**remove photos app**
-**remove cortana**
+    **remove photos app**
+    **remove cortana**
+    **remove quick access**
 
 
 # Debloat Windows 10
