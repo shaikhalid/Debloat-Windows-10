@@ -1,3 +1,9 @@
+# Personal Tweaks 
+**revise how updates are optimised**
+**remove photos app**
+**remove cortana**
+
+
 # Debloat Windows 10
 
 This project collects PowerShell scripts which help to *debloat* Windows 10,
