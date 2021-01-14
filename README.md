@@ -1,5 +1,5 @@
 # Personal Tweaks 
-**revise how updates are optimised**
+**revise how updates are optimised(add delay to feature updates)**,
 **remove photos app**
 **remove cortana**
 
